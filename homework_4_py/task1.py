@@ -1,4 +1,6 @@
-#no inputs
+firstNumber = int(input("Введите первое число: "))
+secondNumber = int(input("Введите втрое число: "))
+thirdNumber = int(input("Введите третье число: "))
 
 sum = 0
 mult = 0
